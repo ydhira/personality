@@ -1,0 +1,9 @@
+chunking_length: 10
+sample_rate: 16000
+mfcc:
+    n_fft: 2048
+    win_length: None
+    hop_length: 512
+    n_mels: 256
+    n_mfcc: 256
+    mel_scale: 'htk'
